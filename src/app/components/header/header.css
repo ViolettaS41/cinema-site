@@ -9,6 +9,11 @@
   align-items: centerd;
 }
 
+.header-logo{
+  text-decoration: none;
+  color: rgb(0,0,0);
+}
+
 .header-logo h1 {
   margin: 0;
   font-family: Inter, sans-serif;
